@@ -3234,13 +3234,13 @@ input, select, textarea {
 			width: 100%;
 			height: 100%;
 			/* background-color: #212931; */
-			/* background-color: #032432;background-image: linear-gradient(43deg, #032432 0%, #05314f 46%, #0a5876 100%); */
+			background-color: #032432;background-image: linear-gradient(43deg, #032432 0%, #05314f 46%, #0a5876 100%);
 
 
 
 
 
-			background-image: url("../../images/"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/u11.jpg");
+			/* background-image: url("../../images/"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/ulog2.jpg"); */
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
